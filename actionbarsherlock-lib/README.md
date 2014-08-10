@@ -8,7 +8,7 @@ For more information see the "Including In Your Project" section of the
 [usage page][1].
 
 
-
+https://github.com/JakeWharton/ActionBarSherlock  原始链接。
 
 
 
